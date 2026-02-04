@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 Занимаюсь аналитикой данных 📈
 Готова к сотрудничеству 🤝
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat&logo=gmail)](mailto:adamiaksenia4@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@username-blue?style=flat&logo=telegram)](https://t.me/ks_adamiya)
+[![Email](https://img.shields.io/badge/Email-adamiaksenia4@gmail.com-blue?style=flat&logo=gmail)](mailto:adamiaksenia4@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@ks_adamiya-blue?style=flat&logo=telegram)](https://t.me/ks_adamiya)
 
 ## 📌 Обо мне
 Занимаюсь обработкой, анализом и визуализацией данных. Специализируюсь на переводе бизнес-вопросов в задачи для анализа, построении дашбордов и SQL-исследованиях. Верю в силу data-driven решений и постоянно учусь новому в области ML и продуктовой аналитики. Ищу интересные задачи в сильной команде.
