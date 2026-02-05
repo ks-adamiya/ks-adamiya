@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 | Название проекта | Описание проекта | Стек |
 |------------------|------------------|------|
 | **Комплексный продуктовый анализ маркетплейса** [Ссылка на гит](https://github.com/ks-adamiya/marketplace.git) | Провести всестороннюю диагностику продукта на ранней стадии: оценить лояльность пользователей, зрелость продукта и определить вектор роста. | Python, Pandas, NumPy, Seaborn, Matplotlib, Re |
-| **Анализ A/B-теста в дейтинговом приложении** [Ссылка на гит](https://github.com/ks-adamiya/marketplace.git) | Оценить успешность изменения стоимости премиум-подписки для новых пользователей | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy |
+| **Анализ A/B-теста в дейтинговом приложении** [Ссылка на гит](https://github.com/ks-adamiya/dating) | Оценить успешность изменения стоимости премиум-подписки для новых пользователей | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy |
 
